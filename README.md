@@ -1,5 +1,8 @@
 # SICP JavaScript Edition
 
+## PDF version 
+##### > [https://github.com/KonstantinDjairo/sicp/blob/master/latex_pdf/sicpjs.pdf]
+
 This repository contains processing scripts and sources for the textbook SICP JS: *Structure and Interpretation of Computer Programs, JavaScript Edition* (SICP JS). See [Preface](https://sourceacademy.org/sicpjs/prefaces03) for background.
 
 Available versions: 
